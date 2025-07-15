@@ -3,6 +3,10 @@
 ################################################################################
 
 /Order.Apis/Order.Apis.csproj.user
-/Notitification.Service.Api/obj/Debug/net9.0/Notitification.Service.Api.AssemblyInfo.cs
-/Order.Api/obj/Debug/net9.0/Order.Api.AssemblyInfoInputs.cache
-/Order.Apis/obj/Debug/net9.0/Order.Apis.AssemblyInfoInputs.cache
+/Notitification.Service.Api/obj
+/Order.Api/obj
+/Order.Apis/obj
+/Notitification.Service.Api/bin
+/Order.Api/bin
+/Order.Apis/bin
+.vs

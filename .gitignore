@@ -6,5 +6,7 @@
 /Notitification.Service.Api/obj
 /Order.Api/obj
 /Order.Apis/obj
+/Notitification.Service.Api/bin
+/Order.Api/bin
+/Order.Apis/bin
 .vs
-/.vs/Demo_Kafka_1/v17/.suo

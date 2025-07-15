@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Order.Apis/Order.Apis.csproj.user
+/Notitification.Service.Api/obj/Debug/net9.0/Notitification.Service.Api.AssemblyInfo.cs
+/Order.Api/obj/Debug/net9.0/Order.Api.AssemblyInfoInputs.cache
+/Order.Apis/obj/Debug/net9.0/Order.Apis.AssemblyInfoInputs.cache

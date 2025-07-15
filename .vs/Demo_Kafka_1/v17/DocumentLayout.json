@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Kafka\\Demo_Kafka_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1BFDB5-7390-41F6-BE21-8BA1E428CBCE}|Order.Apis\\Order.Apis.csproj|e:\\kafka\\demo_kafka_1\\order.apis\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1BFDB5-7390-41F6-BE21-8BA1E428CBCE}|Order.Apis\\Order.Apis.csproj|solutionrelative:order.apis\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1BFDB5-7390-41F6-BE21-8BA1E428CBCE}|Order.Apis\\Order.Apis.csproj|e:\\kafka\\demo_kafka_1\\order.apis\\models\\baseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1BFDB5-7390-41F6-BE21-8BA1E428CBCE}|Order.Apis\\Order.Apis.csproj|solutionrelative:order.apis\\models\\baseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1BFDB5-7390-41F6-BE21-8BA1E428CBCE}|Order.Apis\\Order.Apis.csproj|e:\\kafka\\demo_kafka_1\\order.apis\\models\\baseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1BFDB5-7390-41F6-BE21-8BA1E428CBCE}|Order.Apis\\Order.Apis.csproj|solutionrelative:order.apis\\models\\baseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1BFDB5-7390-41F6-BE21-8BA1E428CBCE}|Order.Apis\\Order.Apis.csproj|e:\\kafka\\demo_kafka_1\\order.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1BFDB5-7390-41F6-BE21-8BA1E428CBCE}|Order.Apis\\Order.Apis.csproj|solutionrelative:order.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1BCB09-24CA-D326-7165-40629B7900EA}|Order.Api\\Order.Api.csproj|e:\\kafka\\demo_kafka_1\\order.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1BCB09-24CA-D326-7165-40629B7900EA}|Order.Api\\Order.Api.csproj|solutionrelative:order.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 127,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseProduct.cs",
+              "DocumentMoniker": "E:\\Kafka\\Demo_Kafka_1\\Order.Apis\\Models\\BaseProduct.cs",
+              "RelativeDocumentMoniker": "Order.Apis\\Models\\BaseProduct.cs",
+              "ToolTip": "E:\\Kafka\\Demo_Kafka_1\\Order.Apis\\Models\\BaseProduct.cs",
+              "RelativeToolTip": "Order.Apis\\Models\\BaseProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T03:01:58.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Kafka\\Demo_Kafka_1\\Order.Apis\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Order.Apis\\Models\\Order.cs",
+              "ToolTip": "E:\\Kafka\\Demo_Kafka_1\\Order.Apis\\Models\\Order.cs",
+              "RelativeToolTip": "Order.Apis\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T02:59:43.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseOrder.cs",
+              "DocumentMoniker": "E:\\Kafka\\Demo_Kafka_1\\Order.Apis\\Models\\BaseOrder.cs",
+              "RelativeDocumentMoniker": "Order.Apis\\Models\\BaseOrder.cs",
+              "ToolTip": "E:\\Kafka\\Demo_Kafka_1\\Order.Apis\\Models\\BaseOrder.cs",
+              "RelativeToolTip": "Order.Apis\\Models\\BaseOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T02:59:18.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Kafka\\Demo_Kafka_1\\Order.Apis\\Program.cs",
+              "RelativeDocumentMoniker": "Order.Apis\\Program.cs",
+              "ToolTip": "E:\\Kafka\\Demo_Kafka_1\\Order.Apis\\Program.cs",
+              "RelativeToolTip": "Order.Apis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T02:57:13.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Kafka\\Demo_Kafka_1\\Order.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Order.Api\\Program.cs",
+              "ToolTip": "E:\\Kafka\\Demo_Kafka_1\\Order.Api\\Program.cs",
+              "RelativeToolTip": "Order.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T02:54:54.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

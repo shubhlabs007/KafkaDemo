@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "23P6qAyc27E=",
+  "success": false,
+  "projectFilePath": "E:\\Kafka\\Demo_Kafka_1\\Order.Apis\\Order.Apis.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'E:\\Projects\\.NET Projects\\DataLayer\\bin\\Release' doesn't exist.",
+      "projectPath": "E:\\Kafka\\Demo_Kafka_1\\Order.Apis\\Order.Apis.csproj",
+      "filePath": "E:\\Kafka\\Demo_Kafka_1\\Order.Apis\\Order.Apis.csproj",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": []
+    }
+  ]
+}

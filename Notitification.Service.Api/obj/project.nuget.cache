@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "LMK1Xm/oPUw=",
+  "success": false,
+  "projectFilePath": "E:\\Kafka\\Demo_Kafka_1\\Notitification.Service.Api\\Notitification.Service.Api.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'E:\\Projects\\.NET Projects\\DataLayer\\bin\\Release' doesn't exist.",
+      "projectPath": "E:\\Kafka\\Demo_Kafka_1\\Notitification.Service.Api\\Notitification.Service.Api.csproj",
+      "filePath": "E:\\Kafka\\Demo_Kafka_1\\Notitification.Service.Api\\Notitification.Service.Api.csproj",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": []
+    }
+  ]
+}

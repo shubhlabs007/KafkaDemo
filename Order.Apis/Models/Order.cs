@@ -2,8 +2,8 @@
 {
     public class Order : BaseOrder
     {
-        public string UserName { get; set; }
-        public List<Product> {get; set; }
+        public string? UserName { get; set; }
+        public List<Product>? Products { get; set; }
         public DateTime CreatedDateTime { get; set; }
     }
 }

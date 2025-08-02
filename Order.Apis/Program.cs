@@ -1,4 +1,8 @@
+using Confluent.Kafka;
+using Order.Apis.Interface;
+using Order.Apis.Services;
 using Swashbuckle.AspNetCore;
+using System.Runtime;
 
 namespace Order.Apis
 {
@@ -11,6 +15,8 @@ namespace Order.Apis
             // Add services to the container.
 
             builder.Services.AddControllers();
+            builder.Services.AddTransient<ICreateOrder, CreateOrderService>();
+            builder.Services.Configure<ProducerConfig>(builder.Configuration.GetSection("ProducerConfig"));
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             //builder.Services.AddOpenApi();
             builder.Services.AddSwaggerGen();
